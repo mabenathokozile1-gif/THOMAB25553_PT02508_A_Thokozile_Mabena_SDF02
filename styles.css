@@ -1,0 +1,17 @@
+/* styles the table*/
+table,th,td {
+    border: 1px solid black;
+    
+
+   
+}
+
+/* styles the h1*/
+h1 {
+    text-align: center;
+
+}
+th,td {
+    border: 2px solid green;
+    padding: 10px;
+}
